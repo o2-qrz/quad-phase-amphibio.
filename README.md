@@ -2,7 +2,7 @@ markdown
 
 html
 
-<img src="www5.png" alt="Resilience-B Layout Diagram" width="600"> 
+
 
 
 
