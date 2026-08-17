@@ -2,7 +2,7 @@
 
 
 
-markdown
+
 
 # 🔋 quad-phase-amphibio: 4-Person Amphibious Energy-Velomobile An ultra-reliable, modular 4-operator hybrid energy velomobile built for extreme long-distance expeditions, off-grid power harvesting, and tactical tourism. --- ### 📸 TECHNICAL DIAGRAM & APPEARANCE --html
 
