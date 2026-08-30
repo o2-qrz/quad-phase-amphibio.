@@ -21,4 +21,23 @@ https://github.com/o2-qrz/stealth-cato-bahes-1
 https://github.com/o2-qrz/Powered-Mobile-3
 
 
+markdown
+
+### 🛞 Sub-Node 3.7: The Variable Track & Automotive Slot-In Matrix (Dynamic Width Transformation) To guarantee operational clearance through extreme terrain bottlenecks and optimize long-range vehicle logistics, the structural 6061-T6 aluminum spaceframe implements a dynamic **Variable Track Transformation Matrix** (as mapped in the technical deployment logs). 
+
+
+
+[ CLOSED RUNTIME MODE (WIDE) ] ──► [ RELEASE CENTRAL CAM LOCK A ] ──► [ TRANSFORMED MODE (SLIM) ]
+(Symmetric Track / Max Stability) (320mm Footprint / Inline Pedals)
+
+* **The Automotive Slot-In Logistics (Fig. 2 Integration):** The platform completely eliminates teardown maintenance delays during vehicular transport. By releasing the central quick-cam lock **Node A**, the transverse parallel struts fold inward. The 4-seat matrix collapses into a highly compact, linear footprint. In this transport state, the velomobile functions as a standardized cartridge that slides directly into the rear cargo grid of the **Botan-2 EV** or **Resilience-B master hub**, automatically connecting to the 48V high-current bus via spring-loaded copper shoes. * **The 320mm Narrow-Pass Transformation:** When encountering heavily restricted pathways, dense forest overgrowths, single-track mountain bridges, or urban debris choke points, the vehicle scales down its lateral geometry. The parallelogram swinging links telescope the right and left wheel tracks toward the central axis. The seating orientation mutates into an aerodynamic inline tandem profile with a total chassis width of strictly **320-350 mm**. The duralumin 4-phase sectional shaft preserves its 90° torque alignment through integrated flexible couplings, allowing the crew to maintain forward momentum through restricted zones without stopping. 
+
+
+
+
+
+
 <img src="www22.png" width="100%"> 
+
+
+
